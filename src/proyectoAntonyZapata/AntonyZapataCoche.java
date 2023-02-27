@@ -34,7 +34,5 @@ public class AntonyZapataCoche {
 		this.marca= marca;
 		this.combustible= combustible;
 		this.coche= coche;
-
-
 }
 }
